@@ -1,0 +1,170 @@
+[{
+    "node_id": "feedbeefff00",
+    "hostname": "nord-gw0",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:00"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff01",
+    "hostname": "nord-gw1",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:01"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff02",
+    "hostname": "nord-gw2",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:02"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff03",
+    "hostname": "nord-gw3",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+	      "fe:ed:be:ef:ff:03"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff04",
+    "hostname": "nord-gw4",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:04"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff05",
+    "hostname": "nord-gw5",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:05"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff06",
+    "hostname": "nord-gw6",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:06"
+          }
+        }
+      }
+    }
+  },
+ {
+    "node_id": "feedbeefff07",
+    "hostname": "nord-gw7",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:07"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff08",
+    "hostname": "nord-gw8",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:08"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff09",
+    "hostname": "nord-gw9",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:09"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff10",
+    "hostname": "nord-gw10",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:10"
+          }
+        }
+      }
+    }
+  },
+  {
+    "node_id": "feedbeefff11",
+    "hostname": "nord-gw11",
+    "network": {
+      "mesh": {
+        "bat0": {
+          "interfaces": {
+            "tunnel":
+              "fe:ed:be:ef:ff:11"
+          }
+        }
+      }
+    }
+  }
+
+]
