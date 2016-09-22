@@ -3,6 +3,10 @@ FFMAPPATH='/opt/ffmap-backend'
 FASTDFPATH='/opt/ffmap-backend/keys'
 AJPATH='/usr/local/bin'
 
+if [ $(pgrep -c $(basename $0)) -gt 1 ]; then 
+  echo $(basename $0) is already running
+  exit 0
+fi
 
 cd $FFMAPPATH
 python2 ./generate_aliases.py $FASTDFPATH >$FFMAPPATH/outjson/aliases.json
