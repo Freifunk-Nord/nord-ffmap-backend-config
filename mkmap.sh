@@ -1,6 +1,6 @@
 #!/bin/bash
 FFMAPPATH='/opt/nord-ffmap-backend'
-FASTDFPATH='/opt/nord-ffmap-backend/keys'
+FASTDFPATH='/opt/nord-ffffng-keys'
 AJPATH='/usr/local/bin'
 
 if [ $(pgrep -c $(basename $0)) -gt 1 ]; then 
